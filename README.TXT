@@ -19,8 +19,9 @@ Expected behavior A clear and concise description of what you expected to happen
 
 Further Information (please complete the following information):
 
+Server Type: [e.g. Spigot/Paper]
 Server Version: [e.g. 1.13.2]
-PortalBlockerFree Version: [e.g. 1.5]
+PortalBlockerBlocker Version: [e.g. 1.0.0]
 Console stack trace if have.
 Screenshots If applicable, add screenshots to help explain your problem.
 
